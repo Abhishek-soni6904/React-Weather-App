@@ -2,7 +2,7 @@
 
 **Beautifully designed, real-time weather information at your fingertips**
 
-![Weather App Demo](../src/components/Screenshot.png)
+![Weather App Demo](src/components/Screenshot.png)
 
 ## ✨ Features
 
