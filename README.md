@@ -74,3 +74,8 @@ View comprehensive weather information including "feels like" temperature, humid
 
 **Refresh Data**  
 Use the "Reload" button to get the latest weather updates.
+
+## 🔗 Connect on LinkedIn  
+Curious to see the **Wheather app** in action? Check out my LinkedIn post, where I showcase a video demo of the project! 🚀  
+
+🎥 **Watch the demo here:** [LinkedIn Post](https://www.linkedin.com/posts/abhishek-soni-662028331_experience-weather-like-never-before-activity-7308792944126242816-hAoI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFN5q6oBYUN1lZGdeZiR4oHDbon9ejqNVRk)
