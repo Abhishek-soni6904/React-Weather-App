@@ -37,7 +37,7 @@
 2. Clone the repository
 
    ```sh
-   git clone https://github.com/yourusername/modern-weather-app.git
+   git clone https://github.com/yourusername/React-Weather-App.git
    ```
 
 3. Install NPM packages
